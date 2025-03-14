@@ -8,8 +8,7 @@ https://github.com/pypa/sampleproject
 import setuptools as st
 from codecs import open
 from os import path
-
-
+nmkhjkmkasfjcksdj
 here = path.abspath(path.dirname(__file__))
 
 # Get the long description from the relevant file
